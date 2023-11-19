@@ -7,6 +7,23 @@
   font-size: 24px;
 }
 
+
+
+/*This works too classes are just selection.*/
+
+/*
+.adjust-font-size.odd{
+  color:aquamarine
+}
+
+.odd.adjust-font-size{
+  color:aquamarine
+}
+
+*/
+
+
+
 #two {
   color: #0000ff;
   font-size: 36px;
