@@ -1,0 +1,11 @@
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* 
+remember to put " " (whitespace) when selecting from different elements. 
+container class belongs to div and text class belongs to p element. There is no <divp> element. 
+*/
